@@ -1,2 +1,2 @@
-# SML
+# Linear regression
 SML projects
